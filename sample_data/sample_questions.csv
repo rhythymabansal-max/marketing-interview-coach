@@ -1,0 +1,41 @@
+id,category,difficulty,question,ideal_points
+1,Marketing Fundamentals,Beginner,What is STP in marketing?,Segmentation; Targeting; Positioning
+2,Marketing Fundamentals,Beginner,Explain the difference between a product and a brand.,"Product is the offering; brand is the identity, meaning, associations and perception built around it"
+3,Marketing Fundamentals,Beginner,What is customer segmentation?,Dividing a broad market into meaningful groups with shared needs or characteristics
+4,Marketing Fundamentals,Beginner,What is a marketing funnel?,Awareness; consideration; conversion; retention/advocacy stages
+5,Marketing Fundamentals,Intermediate,How would you launch a new product?,Target segment; positioning; value proposition; channel strategy; pricing; launch plan; KPIs
+6,Digital Marketing,Beginner,What is CTR and why is it important?,Clicks divided by impressions; measures ad/content ability to generate engagement
+7,Digital Marketing,Beginner,Explain SEO vs SEM.,SEO earns organic search visibility; SEM uses paid search advertising
+8,Digital Marketing,Beginner,What is conversion rate?,"Conversions divided by relevant visits/clicks, expressed as a percentage"
+9,Digital Marketing,Intermediate,How would you improve a campaign with high impressions but low conversions?,"Check targeting, landing page, offer, CTA, funnel drop-offs, message match and conversion tracking"
+10,Digital Marketing,Intermediate,What is retargeting?,Serving ads to users who previously interacted with a brand or site
+11,Sales,Beginner,How would you handle a customer objection?,Listen; clarify; acknowledge; respond with evidence/value; confirm resolution
+12,Sales,Beginner,Explain lead qualification.,"Assess fit, need, authority, budget/timing or equivalent qualification criteria"
+13,Sales,Beginner,What is the difference between upselling and cross-selling?,Upselling moves to a higher-value version; cross-selling adds a complementary product
+14,Sales,Intermediate,How would you prioritize leads?,"Score by fit, intent, value, urgency and probability of conversion"
+15,Sales,Intermediate,How would you handle rejection?,Understand reason; learn; maintain professionalism; follow up appropriately; improve process
+16,Marketing Analytics,Beginner,What is ROI?,Return relative to investment; typically (gain minus cost) divided by cost
+17,Marketing Analytics,Beginner,What is CAC?,Customer Acquisition Cost; total acquisition spend divided by new customers acquired
+18,Marketing Analytics,Intermediate,What is CLV?,Customer Lifetime Value; expected value/profit from a customer over the relationship
+19,Marketing Analytics,Intermediate,How would you measure campaign effectiveness?,Define objective; baseline; KPIs; attribution; compare outcomes against cost and target
+20,Marketing Analytics,Advanced,What KPIs would you track for an e-commerce campaign?,CTR; conversion rate; CAC/CPA; ROAS/ROI; AOV; revenue; CLV; cart abandonment
+21,Brand Management,Beginner,What is brand positioning?,Distinct place a brand aims to occupy in the target customer’s mind versus alternatives
+22,Brand Management,Intermediate,How would you differentiate a new brand in a crowded market?,Identify unmet need; distinctive value proposition; positioning; proof; consistent identity and experience
+23,Brand Management,Beginner,What is brand equity?,"Incremental value created by awareness, associations, perceived quality and loyalty"
+24,Brand Management,Intermediate,How would you respond to negative brand sentiment?,Verify issue; listen; respond transparently; fix root cause; monitor sentiment and communicate actions
+25,HR/Behavioral,Beginner,Tell me about yourself.,Concise present-past-future story; relevant education/experience; strengths; role fit
+26,HR/Behavioral,Beginner,Why marketing?,"Specific motivation supported by experiences, skills and understanding of marketing work"
+27,HR/Behavioral,Intermediate,Tell me about a time you handled a difficult situation.,STAR: Situation; Task; Action; Result; reflection
+28,HR/Behavioral,Intermediate,Describe a leadership experience.,Context; responsibility; actions; team outcome; learning
+29,HR/Behavioral,Beginner,Why should we hire you?,Relevant skills; evidence; fit; willingness to learn; differentiated value
+30,Case/Scenario,Intermediate,Sales have declined by 20%. How would you diagnose the problem?,Clarify timeframe/segment; decompose volume/price/mix; funnel; customer; competitor; channel; validate data
+31,Case/Scenario,Intermediate,A digital campaign has high traffic but low conversions. What would you investigate?,Traffic quality; audience intent; landing page; offer; UX; CTA; tracking; funnel drop-offs
+32,Case/Scenario,Advanced,A competitor has reduced prices by 15%. How would you respond?,Assess customer sensitivity; positioning; unit economics; competitor intent; selective response rather than automatic price cut
+33,Case/Scenario,Advanced,A new product has good awareness but poor adoption. What would you do?,Diagnose consideration-to-use gap; product/price/distribution; trial barriers; feedback; onboarding; proposition
+34,Marketing Fundamentals,Advanced,How would you choose between mass marketing and targeted marketing?,Market heterogeneity; reach needs; budget; data; product fit; economics; objective
+35,Digital Marketing,Advanced,How would you test two landing pages fairly?,Define hypothesis; primary metric; random assignment; adequate sample; fixed test window; avoid peeking; analyze significance/practical impact
+36,Sales,Advanced,What would you do if your pipeline is large but conversion is falling?,Inspect lead quality; stage conversion; qualification; rep behavior; response time; objections; forecast accuracy
+37,Marketing Analytics,Advanced,Why can a high ROAS campaign still be a poor business decision?,Attribution limits; margin; incremental impact; scale constraints; CLV; opportunity cost
+38,Brand Management,Advanced,How would you measure whether a rebranding worked?,Brand awareness/consideration; perception; preference; engagement; retention; revenue; compare baseline
+39,HR/Behavioral,Advanced,Tell me about a failure and what you learned.,Own responsibility; context; action; result; specific learning and changed behavior
+40,Case/Scenario,Beginner,A campaign gets many leads but sales says they are poor quality. What would you do?,Align lead definition; inspect source/segment; qualification; feedback loop; optimize toward downstream quality
