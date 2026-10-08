@@ -20,7 +20,7 @@ st.markdown("""
 </style>
 """, unsafe_allow_html=True)
 
-@st.cache_data
+
 def get_bank(): return load_questions()
 
 def reset_interview():
