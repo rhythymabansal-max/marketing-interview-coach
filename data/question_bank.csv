@@ -39,3 +39,7 @@ id,category,difficulty,question,ideal_points
 38,Brand Management,Advanced,How would you measure whether a rebranding worked?,Brand awareness/consideration; perception; preference; engagement; retention; revenue; compare baseline
 39,HR/Behavioral,Advanced,Tell me about a failure and what you learned.,Own responsibility; context; action; result; specific learning and changed behavior
 40,Case/Scenario,Beginner,A campaign gets many leads but sales says they are poor quality. What would you do?,Align lead definition; inspect source/segment; qualification; feedback loop; optimize toward downstream quality
+41,Marketing Fundamentals,Intermediate,"How would you identify and prioritize a target market for a new product?","Market size, growth potential, customer needs, competition, profitability, strategic fit"
+42,Marketing Fundamentals,Intermediate,"How would you evaluate whether a product is achieving product-market fit?","Customer need, adoption, retention, satisfaction, repeat purchase, willingness to pay"
+43,Marketing Fundamentals,Intermediate,"How would you develop a marketing mix for a new consumer product?","Product, price, place, promotion, target segment, positioning"
+44,Marketing Fundamentals,Intermediate,"How would you decide whether to use a push or pull marketing strategy?","Channel strategy, customer demand, intermediaries, promotion, product type, objectives"
